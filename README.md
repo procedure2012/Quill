@@ -18,13 +18,12 @@ This repository is under active development. Many features are TODO.
 
 - [ ] **quill/parser/blocks.py:2** - support column alignment markers
 - [ ] **quill/parser/blocks.py:3** - handle escaped pipes inside cells
+- [ ] **quill/parser/blocks.py:7** - detect language from info string
 - [ ] **quill/parser/inline.py:2** - support reference-style links
 - [ ] **quill/parser/inline.py:6** - handle nested emphasis correctly
 - [ ] **quill/parser/inline.py:7** - support strikethrough syntax
-- [ ] **quill/parser/inline.py:99** - add emoji shortcode expansion
 - [ ] **quill/render/html.py:2** - emit semantic heading anchors
 - [ ] **quill/render/html.py:3** - add syntax highlighting hooks
-- [ ] **quill/render/html.py:40** - support PDF export backend
 
 ## 🤝 Contributing
 
